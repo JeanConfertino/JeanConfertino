@@ -17,8 +17,8 @@ linguagens como base para o meu aprendizado.
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
 
-  - Tenho 21 anos e atualmente moro em carapicuíba. Trabalho há cerca de 3 anos como assistente administrativo na SIS Innov e Tech em barueri-SP.
-  - Estou me graduando em Análise e Desenvolvimento de Sistemas pela Universidade Paulista (UNIP) com bolsa conquistada utilizando o enem, a previsão de termino do curso é no segundo semestre de 2025.
+  - Tenho 21 anos e atualmente moro em carapicuíba. Trabalhei por 3 anos como assistente administrativo na SIS Innov e Tech em barueri-SP.
+  - Estou me graduando em Análise e Desenvolvimento de Sistemas pela Universidade Paulista (UNIP) com bolsa conquistada utilizando o enem.
 
   - Gosto de assistir futebol, conhecer novos lugares, novas pessoas e principalmente viajar.
 </details>
