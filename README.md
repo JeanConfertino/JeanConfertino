@@ -7,9 +7,8 @@
 <p>
   Me chamo Jean e atualmente sou estudande de Análise e Desenvolvimento de Sistemas pela UNIP.
 
-  - Estou em busca de um estágio na área de tecnologia, aprofundando meus
-estudos em Java, JavaScript e outras tecnologias semelhantes, pois reconheço a importância dessas
-linguagens como base para o meu aprendizado.
+  - Em busca de uma oportunidade para ingressar na área de tecnologia. Estou
+estudando inglês e aprimorando meu conhecimento em Java e Banco de Dados.
 
 </p>
 
